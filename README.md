@@ -1,0 +1,9 @@
+- Projeto em C# que implementa uma calculadora de console com menu interativo.
+- Contém operações básicas: soma, subtração, multiplicação e divisão.
+-> Aprendi sobre:
+- Criação de um app .NET (net10.0)
+- Uso de Console.ReadLine() e Console.WriteLine()
+- Conversão de entrada de texto para números com float.Parse()
+- Controle de fluxo com switch
+- Organização do código em funções/métodos (Menu(), Soma(), Subtracao(), etc.)
+- Como retornar ao menu após cada operação
