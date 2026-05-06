@@ -1,0 +1,14 @@
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\bin\Debug\net10.0\Calculator.exe
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\bin\Debug\net10.0\Calculator.deps.json
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\bin\Debug\net10.0\Calculator.runtimeconfig.json
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\bin\Debug\net10.0\Calculator.dll
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\bin\Debug\net10.0\Calculator.pdb
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\obj\Debug\net10.0\Calculator.dll
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\obj\Debug\net10.0\refint\Calculator.dll
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\obj\Debug\net10.0\Calculator.pdb
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+C:\Users\cristiano.cintra\OneDrive - ABCZ - Associação Brasileira dos Criadores de Zebu\Documentos\Calculator\obj\Debug\net10.0\ref\Calculator.dll
